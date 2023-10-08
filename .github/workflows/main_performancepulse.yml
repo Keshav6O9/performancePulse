@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'performancePulse'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_9C5CD0BBC33F4EDFB2EBA708458EE531 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_2192C63473E64F19A8D54A90AC5F57EC }}
